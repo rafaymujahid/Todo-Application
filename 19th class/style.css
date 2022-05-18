@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+   
+}
+.btn{
+    background-color: blueviolet;
+
+}
+h1{
+    background-color: aqua;
+    color: maroon;
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    background-color: aqua;
+    color: maroon;
+    text-align: center;
+    font-weight: bolder;
+
+}
+h3{
+padding-top: 3px;
+text-align:center ;
+padding-bottom: 3px;
+}
+h4{
+    color: blue;
+}
